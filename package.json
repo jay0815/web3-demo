@@ -1,0 +1,12 @@
+{
+  "name": "web3-demo",
+  "version": "1.0.0",
+  "description": "A learning demo based on the React + Next.js + Web3 + Ethers + Viem tech stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JackQ",
+  "license": "MIT"
+}
